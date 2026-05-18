@@ -1,4 +1,5 @@
-name": "echolink",
+{
+  "name": "echolink",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -14,3 +15,4 @@ name": "echolink",
     "@vitejs/plugin-react": "^4.0.0",
     "vite": "^4.4.0"
   }
+}
